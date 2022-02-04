@@ -11,3 +11,8 @@ Velha e Boa Calculadora BackEnd NODE:
 -  Por final devolva a operação executada e o resultado de acordo.
 - O pacote deve usar módulos inquirer e um módulo interno.
 - Entregue por link de repositório GITHUB.
+
+## Instalação
+
+- `git clone`
+- `npm install`
